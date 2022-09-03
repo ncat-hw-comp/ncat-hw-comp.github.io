@@ -59,7 +59,7 @@ const config = {
       navbar: {
         title: 'NCAT IEEE HW COMP',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Club Logo',
           src: 'img/logo.svg',
         },
         items: [

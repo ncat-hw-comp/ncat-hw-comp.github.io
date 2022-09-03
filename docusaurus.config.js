@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'NCAT IEEE HW COMP',
   tagline: 'Aggies IEEE Hardware Competition',
-  url: 'https://ncat-hw-comp.github.io',
+  url: 'https://ncat-hw-comp.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

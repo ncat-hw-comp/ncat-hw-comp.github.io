@@ -10,6 +10,7 @@ const config = {
   tagline: 'Aggies IEEE Hardware Competition',
   url: 'https://ncat-hw-comp.github.io/',
   baseUrl: '/',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

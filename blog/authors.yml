@@ -17,8 +17,16 @@ slorber:
   image_url: https://github.com/slorber.png
 
 
+
 ashleigh-taylor:
   name: Ashleigh Taylor
   title: NCAT Students 
   url: https://github.com/ashleigh-taylor
   image_url: https://github.com/ashleigh-taylor.png
+  
+nigeltiany:
+  name: Nigel Tiany
+  title: NCAT Student
+  url: https://github.com/nigeltiany
+  image_url: https://github.com/nigeltiany.png
+
